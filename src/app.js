@@ -8,3 +8,4 @@ HOME_PAGE_LINK.addEventListener("click", () => onChangePage(PAGES.HOME));
 ABOUT_PAGE_LINK.addEventListener("click", () => onChangePage(PAGES.ABOUT));
 CREATE_PIC_PAGE_LINK.addEventListener("click", () => onChangePage(PAGES.CREATE_PIC));
 SINPUP_PAGE_LINK.addEventListener("click",()=> onChangePage(PAGES.SINPUP));
+
