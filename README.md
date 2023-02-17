@@ -1,1 +1,1 @@
-# ProjectJS
+# SLIDESHOW-APP
